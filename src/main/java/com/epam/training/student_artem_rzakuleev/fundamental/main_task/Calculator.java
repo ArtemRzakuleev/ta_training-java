@@ -1,7 +1,5 @@
 package com.epam.training.student_artem_rzakuleev.fundamental.main_task;
 
-import java.sql.SQLOutput;
-
 public class Calculator {
     public static void main(String[] args) {
         if (args.length==2) {
